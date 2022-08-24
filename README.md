@@ -2,11 +2,13 @@
 
 This is a [Create React App](https://create-react-app.dev/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
-## Next Steps
+## Next Steps are next
 
 Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-typescript-react)
+
+![alt](https://media.giphy.com/media/l0HlUH6eDIyq3ASwo/giphy.gif)
 
 ## Get Started With Your Own Project
 
